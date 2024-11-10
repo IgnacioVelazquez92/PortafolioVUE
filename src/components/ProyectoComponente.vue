@@ -14,7 +14,7 @@ misProyectos.value = [
     subtitle: "Node & ExpressJS",
     description:
       "Este proyecto fue desarrollado para un  curso que desarrolle en Digit@lers TELECOM. Desarrollo de aplicaciones con node JS Claves de usuarios encriptadas con bcrypt autenticación con JWT, express sessión y envío de mail a usuarios con nodemailer",
-    image: "/src/assets/giffs/Polaris3D.gif",
+    image: "/public/giffs/Polaris3D.gif",
     link: "http://polaris3d.onrender.com/",
     repoBack: "https://github.com/IgnacioVelazquez92/backexpress-hbs",
   },
@@ -23,7 +23,7 @@ misProyectos.value = [
     subtitle: "MERN Stack & Firebase",
     description:
       "Este proyecto fue desarrollado para mi empresa con el objetivo de optimizar el proceso de medición del Net Promoter Score (NPS) en el contexto de nuestro cliente TELECOM. Utilicé la plataforma Firebase para alojar los archivos como imagenes, audios y MongoDB para almacenar las encuestas.",
-    image: "/src/assets/giffs/startek.gif",
+    image: "/public/giffs/startek.gif",
     link: "https://startek.netlify.app/",
     repoFront: "https://github.com/IgnacioVelazquez92/startek-nps-front.git",
     repoBack: "https://github.com/IgnacioVelazquez92/startek-nps-back.git",
@@ -33,7 +33,7 @@ misProyectos.value = [
     subtitle: "DeisyUI TailwindCSS Redux-Toolkit",
     description:
       "Este proyecto web Lo tuve que realizar en 6 días para mi primer entrevista para una empresa llamada lab9, donde tenia que aplicar: react-router-dom redux-toolkit y ademas utilizar la libreria deysyUI para los componentes.",
-    image: "/src/assets/giffs/entrevista.gif",
+    image: "/public/giffs/entrevista.gif",
     link: "https://entrevistalab9.netlify.app/",
     repoFront: "https://github.com/IgnacioVelazquez92/Lab9-entrevista.git",
     repoBack: "https://github.com/IgnacioVelazquez92/entrevista-lab9-back.git",
@@ -43,7 +43,7 @@ misProyectos.value = [
     subtitle: "MERN Stack",
     description:
       "Este proyecto, un eCommerce, se desarrolló como proyecto final durante mi formación en Rolling Code School. Fue construido empleando tecnologías esenciales como Express, Express Validator, Bcrypt, JWT y Email.js, y utilizó MongoDB junto con el framework Mongoose para gestionar la base de datos.",
-    image: "/src/assets/giffs/am-creaciones.gif",
+    image: "/public/giffs/am-creaciones.gif",
     link: "https://am-creaciones.netlify.app",
     repoFront: "https://github.com/IgnacioVelazquez92/AM-FRONT-PF.git",
     repoBack: "https://github.com/andimenendez/proyectoFinal-backend.git",

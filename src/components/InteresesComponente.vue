@@ -5,11 +5,14 @@ import { ref } from 'vue';
 import FondoLava from './FondoLava.vue';
 //Este es un arreglo con ref para que se pueda reactivar el cambio de los intereses
 const intereses = ref([
-    'Desarrollo de proyectos personales: Trabajar en proyectos personales que te apasionen, como crear herramientas de automatización para tareas diarias, juegos, aplicaciones web o análisis de datos. Esto te permite explorar nuevas bibliotecas y técnicas.',
-    'Aprendizaje constante: Explorar nuevas bibliotecas, frameworks y tecnologías emergentes en Python, como TensorFlow para inteligencia artificial, Django o Flask para desarrollo web, y Pandas para análisis de datos.',
-    'Contribución a proyectos de código abierto: Participar en proyectos de código abierto en plataformas como GitHub o GitLab, mejorando y aprendiendo de otros desarrolladores.',
-    'Automatización de tareas: Crear scripts Python para automatizar tareas repetitivas en tu vida diaria, como organización de archivos, notificaciones personalizadas o monitoreo de sistemas.',
-    'Análisis y visualización de datos: Utilizar bibliotecas como Pandas, NumPy y Matplotlib para analizar y visualizar datos de intereses personales, como estadísticas deportivas, clima o finanzas.'
+    'Desarrollo backend con Java: Explorar frameworks como Spring Boot, Hibernate y Java EE para crear aplicaciones escalables y robustas.',
+    'Full Stack MERN: Aprender y dominar las tecnologías del stack MERN (MongoDB, Express.js, React.js y Node.js) para desarrollar aplicaciones web completas.',
+    'Bases de datos: Estudiar y aplicar conocimientos de diseño y optimización de bases de datos relacionales y no relacionales (MySQL, PostgreSQL, MongoDB, etc.).',
+    'Arquitectura de software: Analizar y diseñar patrones de arquitectura como Microservicios, Monolito y Event-Driven para sistemas complejos.',
+    'Seguridad y testing: Implementar prácticas de seguridad y testing en aplicaciones Java y MERN, utilizando herramientas como JUnit, TestNG, Jest y Cypress.',
+    'Desarrollo de APIs RESTful: Crear y documentar APIs RESTful con Java y Node.js, siguiendo principios de diseño y estándares de industria.',
+    'Integración continua y despliegue: Automatizar procesos de build, test y despliegue utilizando herramientas como Jenkins, GitLab CI/CD y Docker.',
+    'Aprendizaje de tecnologías emergentes: Explorar tecnologías como Kotlin, GraphQL, WebSocket y Serverless para mantenerse actualizado en el campo.'
 ]);
 
 </script>
